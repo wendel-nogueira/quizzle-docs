@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T18:11:06.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0 (Edition std-1)" etag="NQIdfpzYIlEkgkAEWP7J" version="21.3.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-05T18:12:41.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0 (Edition std-1)" etag="cwugeJeIsETqE15iLZWz" version="21.3.7" type="github" pages="6">
   <diagram name="RealizaJogo" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="3172" dy="1277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -339,7 +339,7 @@
             <mxPoint x="293" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aij3SnYUVFoN3i5Ja81q-2" value="Jogador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="Aij3SnYUVFoN3i5Ja81q-2" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="278" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Aij3SnYUVFoN3i5Ja81q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="Aij3SnYUVFoN3i5Ja81q-4" edge="1">
@@ -470,7 +470,7 @@
             <mxPoint x="273" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fibsgY1Fu2vZYF2qqwSS-2" value="Jogador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="fibsgY1Fu2vZYF2qqwSS-2" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="258" y="180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fibsgY1Fu2vZYF2qqwSS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="fibsgY1Fu2vZYF2qqwSS-4" edge="1">
@@ -635,7 +635,7 @@
             <mxPoint x="293" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZzvB7gAQjapogYFgFPbn-2" value="Jogador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="ZzvB7gAQjapogYFgFPbn-2" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="278" y="239" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZzvB7gAQjapogYFgFPbn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="ZzvB7gAQjapogYFgFPbn-4">
